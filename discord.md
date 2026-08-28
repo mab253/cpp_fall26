@@ -3,7 +3,9 @@
 Discord intro documentation: [here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
 
 Discord is a good tool to learn in today's coding world: most workplaces will have some asynchronous chat/collaborative platform, and Discord is used for all sorts of jobs and organizing online communities ... maybe you've already used it with your friends, for gaming, or in other groups. In our class, we will use the Discord platform for questions, discussions, sharing resources, etc: 
-<img width="1429" height="880" alt="Screenshot 2026-01-25 at 23 42 46" src="https://github.com/user-attachments/assets/d1fa6bee-c46b-4396-9391-8638ac75bcb3" />
+
+<img width="1113" height="841" alt="Screenshot 2026-08-27 at 21 19 35" src="https://github.com/user-attachments/assets/14376d64-d6b3-4a64-84b6-d9c96d186324" />
+
 
 ## to start on our Discord server:
   - you can find the invite link in the "Content" overview section of the class Brightspace page 

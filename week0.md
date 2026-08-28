@@ -20,5 +20,5 @@ We've got a few set-up tasks to get started ... the following is due by **Monday
 4. **Submit the class survey**
 - You will need to know your Discord name before completing the survey
 - You will need to agree to the academic honesty policy in the [syllabus](https://github.com/mab253/cpp_fall26/blob/main/README.md) and the [AI citation policy](https://github.com/mab253/cpp_fall26/blob/main/ai-citations.md) when completing the survey
-- ✨[Survey SOON] - password: protonc++26
+- ✨[Survey link here](https://airtable.com/appLDEvuelyDRoI2b/shrBnzvqXCVRRI1ZL) - password: protonc++26
 

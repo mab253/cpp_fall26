@@ -7,3 +7,4 @@ other practice + info on vectors/arrays and other topics this week:
 - codeacademy, [Vectors](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-vectors/cheatsheet) reference sheet
 - Harvard CS50 on [Arrays](https://video.cs50.io/K1yC1xshF40) video, 14 min. (note this is about C, but very similar!)
 - [Rubber Duck Debugging](https://rubberduckdebugging.com/), including a built-in chatbot duck 🐥
+- [What is LLM Temperature?](https://www.ibm.com/think/topics/llm-temperature), IBM documentation, on importance of pseudorandomness in generative AI

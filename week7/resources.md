@@ -3,6 +3,7 @@
 other practice + info on vectors/arrays and other topics this week:
 - 🖥️ **in-class code** Caesar cipher, [encryption](https://www.online-cpp.com/tx2iQhm2Hw)
 - 🖥️ **in-class code** Caesar cipher, [decryption & brute force hack](https://www.online-cpp.com/MUBRtWN2is)
+- [cctype functions](https://cplusplus.com/reference/cctype/), cplusplus.com reference docs
 - codecademy, "[whale talk](https://www.codecademy.com/courses/learn-c-plus-plus/projects/cpp-whale-talk)" practice project
 - codecademy, [Arrays](https://www.codecademy.com/article/cpp-arrays) reference sheet
 - codecademy, [C-strings](https://www.codecademy.com/resources/docs/c/strings) reference sheet

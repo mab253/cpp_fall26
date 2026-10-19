@@ -1,8 +1,10 @@
 # 🤖🔑 hackathon #1! #
 
 _Oct. 19 - Oct. 23, 2026_ \
-**due: Fri. Oct. 23 @ 5:59pm NYC-time 🌱**  
-<!--
+**due: Fri. Oct. 23 @ 5:59pm NYC-time 🌱** 
+
+💃**TEAMS**: [list here](https://airtable.com/appLDEvuelyDRoI2b/shrMYyXDVXPif86tN) 
+
 ![400-DALL·E 2024-10-20 21 53 16 - A photorealistic image of two lifelike
 cats wearing subtle 90s-style cyberpunk enhancements, such as glowing
 visors or small tech accessories, trying
@@ -42,7 +44,7 @@ that text **with an encryption algorithm of your own design.** The steps
 of your encryption need to be reversible; for example, if Alice encrypts
 the message and Bob knows the key, Bob should be able to decrypt it.
 
-This part of your program should output the encrypted text and the key. You should also offer your user the option to decrypt the text again. 
+This part of your program should output the encrypted text and the key.
 
 Other requirements:
 - your encryption should make use of a pseudorandom number generator **of
@@ -109,5 +111,5 @@ many times as you need before the deadline.
 - **Each team member** needs to submit code via zyBooks 16.40, even if
 your team's code is exactly the same.
 
-👽 Good luck and happy coding!-->
+👽 Good luck and happy coding!
 

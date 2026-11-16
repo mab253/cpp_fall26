@@ -2,7 +2,7 @@
 
 *Nov. 16 - Nov. 23rd* \
 **due: Mon. Nov. 23rd @ 11:59pm NYC-time 🦃** \
-**7 min. work-in-progress presentation: Fri. Nov. 20th**
+**5-7 min. work-in-progress presentation: Fri. Nov. 20th**
 
 <img width="593" alt="Screenshot 2026-11-16 at 00 03 25" src="https://github.com/user-attachments/assets/1c587055-3162-4f83-bc28-93ac4e26ded7" /> \
 

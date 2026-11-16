@@ -1,4 +1,4 @@
-## 🤖 other resources: week 12
+## 🤖 other resources: week 11
 
 resources for search/sort algorithms, big O notation, and other topics this week:
 - [Binary Search in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc), visualization from Fireship on Youtube

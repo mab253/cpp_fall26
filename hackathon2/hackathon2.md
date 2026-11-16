@@ -6,7 +6,7 @@
 
 <img width="593" alt="Screenshot 2026-11-16 at 00 03 25" src="https://github.com/user-attachments/assets/1c587055-3162-4f83-bc28-93ac4e26ded7" /> \
 
-Your team's task is to write a program that responds and engages in some way with Crawford and Joler's [Calculating Empires](https://calculatingempires.net/). 
+Your team's task is to write a program that responds and engages in some way with Crawford and Joler's [Calculating Empires](https://calculatingempires.net/). Part of the goal of this hackathon is to practice reading documentation and using classes and functions from a library - so we will be including graphics.
 
 The format of this creative coding project is very open-ended. It could take the form of:
 - a program that takes a deep dive into some research about any 1 part of the diagram, showing original text and images like a website
@@ -23,12 +23,16 @@ Requirements, your program needs to:
 - clearly cite *all instances* of **external sources** (you will probably do research for this project!)
 
 To get started:
-- everyone on your team should get a free github account 
-- check out the project structure and follow the directions: https://github.com/mab253/hack2-fall26/
+- everyone on your team should get a free github account
+- when you're ready, check out the project structure and follow the directions: https://github.com/mab253/hack2-fall26/
+- check out [raylib](https://www.raylib.com/index.html), its [examples](https://www.raylib.com/examples.html) and its [documentation](https://www.raylib.com/cheatsheet/cheatsheet.html). This should help you get ideas for what you can do with the library, and what functions are available to you.
+- `raylib` is open source, so you can see [all the code](https://github.com/raysan5/raylib) to get more details about how any of the functions work.
+
 
 
 Suggestions:
-- think about **time** and **project scope**: you only have 1 full week to decide, design, and build, including learning some new libraries. Try and decide on a theme pretty quickly. And it is ok for the project itself to be small, but it should be thoughtful and unique. 
+- think about **time** and **project scope**: you only have 1 full week to decide, design, and build, including learning some new libraries. Try and decide on a theme together pretty quickly. And it is ok for the project itself to be small, but it should be thoughtful and unique.
+- sketch out ideas first on paper! your topic choice and design here is an important step.
 - take lessons from the first hackathon: do some work at home to be ready for the in-person time, collaborate by chatting/sharing code, and delegate and communicate
 
 Happy coding!

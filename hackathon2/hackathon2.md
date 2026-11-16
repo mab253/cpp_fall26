@@ -27,7 +27,7 @@ To get started:
 - first, everyone on your team should get a free github account
 - 💥 when you're ready, **check out the project structure and follow the directions: https://github.com/mab253/hack2-fall26/**
 - study [raylib](https://www.raylib.com/index.html), its [examples](https://www.raylib.com/examples.html) and its [documentation](https://www.raylib.com/cheatsheet/cheatsheet.html). This should help you get ideas for what you can do with the library, and what functions are available to you.
-- `raylib` is open source, so you can see [all the code](https://github.com/raysan5/raylib) to get more details about how any of the functions work.
+- `raylib` is open source, so you can see [all the code](https://github.com/raysan5/raylib/blob/master/src/raylib.h) to get more details about how any of the functions work.
 
 
 Suggestions:

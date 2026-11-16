@@ -4,9 +4,11 @@
 **due: Mon. Nov. 23rd @ 11:59pm NYC-time 🦃** \
 **5-7 min. work-in-progress presentation: Fri. Nov. 20th**
 
+[TEAMS!!](https://airtable.com/appLDEvuelyDRoI2b/shrA2bBumge7b3t9C/tblEkj0EQLeLzd9dy)
+
 <img width="593" alt="Screenshot 2026-11-16 at 00 03 25" src="https://github.com/user-attachments/assets/1c587055-3162-4f83-bc28-93ac4e26ded7" /> \
 
-Your team's task is to write a program that responds and engages in some way with Crawford and Joler's [Calculating Empires](https://calculatingempires.net/). Part of the goal of this hackathon is to practice reading documentation and using classes and functions from a library - so we will be including graphics.
+Your team's task is to write a program that responds and engages in some way with Crawford and Joler's [Calculating Empires](https://calculatingempires.net/). 
 
 The format of this creative coding project is very open-ended. It could take the form of:
 - a program that takes a deep dive into some research about any 1 part of the diagram, showing original text and images like a website
@@ -14,6 +16,11 @@ The format of this creative coding project is very open-ended. It could take the
 - a program that makes a discussion of an ethical question from the diagram interactive and visual - what does your team think of computation's role in surveillance, in generative AI, etc.?
 - a speculative, "fictional" piece of software: maybe you write an interface for ordering from the Pony Express (on the diagram), a way to check on a homing pigeon (on the diagram), a tool for revealing invisible supply chains, a simulation of Schrodinger's cat or the "Golden Age of Piracy" (all from the diagram), etc. etc. - or maybe your software is from the future, what happens after the diagram?
 - another original idea of your own
+
+Goals:
+- use code to express an original idea
+- allow for more research on sociotechnical systems (like Crawford and Joler's diagram)
+- dive into using external object-oriented programming libraries and documentation in order to make graphics, learn to build on top of existing complexity 
 
 Requirements, your program needs to:
 - use the library `raylib` in some way - https://www.raylib.com

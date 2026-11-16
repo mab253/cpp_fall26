@@ -1,0 +1,34 @@
+# 🌅🛠️ hackathon #2! #
+
+*Nov. 16 - Nov. 23rd* \
+**due: Mon. Nov. 23rd @ 11:59pm NYC-time 🦃** \
+**7 min. work-in-progress presentation: Fri. Nov. 20th**
+
+<img width="593" alt="Screenshot 2026-11-16 at 00 03 25" src="https://github.com/user-attachments/assets/1c587055-3162-4f83-bc28-93ac4e26ded7" /> \
+
+Your team's task is to write a program that responds and engages in some way with Crawford and Joler's [Calculating Empires](https://calculatingempires.net/). 
+
+The format of this creative coding project is very open-ended. It could take the form of:
+- a program that takes a deep dive into some research about any 1 part of the diagram, showing original text and images like a website
+- an attempt to calculate the true cost, the people and processes involved in making 1 object in the diagram from beginning to end; or comparing 2 technologies on the diagram (which is more "efficient" - and for whom?)
+- a program that makes a discussion of an ethical question from the diagram interactive and visual
+- a speculative, "fictional" piece of software: maybe you write an interface for ordering from the Pony Express (on the diagram), a way to check on a homing pigeon (on the diagram), a tool for revealing invisible supply chains, a simulation of Shrodinger's cat or the "Golden Age of Piracy" (all from the diagram), etc. etc.
+- another original idea of your own
+
+Requirements, your program needs to:
+- use the library `raylib` in some way - https://www.raylib.com
+- include at least 1 class that you write, with separate header and cpp files
+- engage critically with the concepts of **abstraction**, **efficiency**, and/or **recursion** in some way
+- use `CMake` as laid out in the project structure
+- clearly cite *all instances* of **external sources** (you will probably do research for this project!)
+
+To get started:
+- everyone on your team should get a free github account 
+- check out the project structure and follow the directions: https://github.com/mab253/hack2-fall26/
+
+
+Suggestions:
+- think about **time** and **project scope**: you only have 1 full week to decide, design, and build, including learning some new libraries. Try and decide on a theme pretty quickly. And it is ok for the project itself to be small, but it should be thoughtful and unique. 
+- take lessons from the first hackathon: do some work at home to be ready for the in-person time, collaborate by chatting/sharing code, and delegate and communicate
+
+Happy coding!

@@ -1,7 +1,7 @@
 # 🌅🛠️ hackathon #2! #
 
 *Nov. 16 - Nov. 23rd* \
-**due: Mon. Nov. 23rd @ 11:59pm NYC-time 🦃** \
+**due: Tues. Nov. 24th @ 11:59pm NYC-time 🦃** \
 **5-7 min. work-in-progress presentation: Fri. Nov. 20th**
 
 [TEAMS!!](https://airtable.com/appLDEvuelyDRoI2b/shrA2bBumge7b3t9C/tblEkj0EQLeLzd9dy)

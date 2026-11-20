@@ -176,7 +176,7 @@ Week 11 Lab: DUE Nov. 13, 11:59pm
 *No class Wednesday Nov. 25 + Friday Nov. 27*
 
 **Assignments:** \
-Hackathon #2: Due Nov. 23, 11:59pm
+Hackathon #2: Due Nov. 24, 11:59pm 💥 date changed, extension
 
 ---
 
